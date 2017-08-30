@@ -1,23 +1,23 @@
 var raene = {
-	firstName: "Raene",
+  firstName: "Raene",
   age: 15,
   grade: 11,
   friends: ["Alexus", "Michael", "Lauren", "Shayna"]
 };
 var michael = {
-	firstName: "Michael",
+  firstName: "Michael",
   age: 16,
   grade: 11,
   friends: ["Faith", "June", "Anya", "Shayna"]
 };
 var shayna = {
-	firstName: "Shayna",
+  firstName: "Shayna",
   age: 15,
   grade: 11,
   friends: ["Alexus", "Michael", "Lauren", "Raene"]
 };
 var alexus = {
-	firstName: "Alexus",
+  firstName: "Alexus",
   age: 17,
   grade: "Graduated",
   friends: ["Alexus", "Alexus", "Raene", "Raene"]
